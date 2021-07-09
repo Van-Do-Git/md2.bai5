@@ -1,3 +1,5 @@
+package PractiveStaticProperty;
+
 public class PracticeStaticProperty {
     private String name;
     private String engine;
@@ -8,4 +10,6 @@ public class PracticeStaticProperty {
         this.engine = engine;
         numberOfCars++;
     }
+
+
 }
